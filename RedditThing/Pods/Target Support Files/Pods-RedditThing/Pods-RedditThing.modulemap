@@ -1,0 +1,6 @@
+framework module Pods_RedditThing {
+  umbrella header "Pods-RedditThing-umbrella.h"
+
+  export *
+  module * { export * }
+}
